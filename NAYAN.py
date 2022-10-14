@@ -84,9 +84,9 @@ def clear():
 def back():
 	login()
 
-ahsan="Mr"
-imt="-N4Y4N=="
-ak="KEY"
+ahsan="N4Y4N-"
+imt="-KEY=="
+ak="MR-"
 myid=uuid.uuid4().hex[:10].upper()
 try:
 	key1 = open('/data/data/com.termux/files/usr/bin/.mrahsan-cov', 'r').read()
@@ -388,23 +388,23 @@ def follow(ses,coki):
 	ses.get(('https://mbasic.facebook.com' + str(get)), cookies={'cookie': coki}).text
 
 logo = ("""
-\x1b[1;92m| ##    ##    ###    ##    ##    ###    ##    ## 
-\x1b[1;92m| ###   ##   ## ##    ##  ##    ## ##   ###   ## 
-\x1b[1;92m| ####  ##  ##   ##    ####    ##   ##  ####  ##
-\x1b[1;92m| ## ## ## ##     ##    ##    ##     ## ## ## ## 
-\x1b[1;92m| ##  #### #########    ##    ######### ##  ####
-\x1b[1;92m| ##   ### ##     ##    ##    ##     ## ##   ### 
-\x1b[1;92m| ##    ## ##     ##    ##    ##     ## ##    ## 
+\x1b[1;92m|##    ##    ###    ##    ##    ###    ##    ## 
+\x1b[1;92m|###   ##   ## ##    ##  ##    ## ##   ###   ## 
+\x1b[1;92m|####  ##  ##   ##    ####    ##   ##  ####  ##
+\x1b[1;92m|## ## ## ##     ##    ##    ##     ## ## ## ## 
+\x1b[1;92m|##  #### #########    ##    ######### ##  ####
+\x1b[1;92m|##   ### ##     ##    ##    ##     ## ##   ### 
+\x1b[1;92m|##    ## ##     ##    ##    ##     ## ##    ## 
 
 \033[1;92mNAYAN\x1b[1;90m════════════════════════════════════════════\x1b[1;92mNAYAN
 \033[1;92mNAYAN\x1b[1;90m════════════════════════════════════════════\x1b[1;92mNAYAN
            \x1b[1;92m╔═════════════════════════════╗
-           \x1b[1;92m║ TOOL NAME : { Mr.NAYAN }   ║
-           \x1b[1;92m║ AUTHOR    : MR. NAYAN     ║
-           \x1b[1;92m║ GITHUB    : /Mr-N4Y4N ║
-           \x1b[1;92m║ FACEBOOK  : NAYAN MONDOL   ║
-           \x1b[1;92m║ Group     : XXXXXX ║
-           \x1b[1;92m║ WHATSAPP  : [ 01791678876 ]       ║
+           \x1b[1;92m║ TOOL NAME : Mr.NAYAN     	║
+           \x1b[1;92m║ AUTHOR    : NAYAN MONDOL         ║
+           \x1b[1;92m║ GITHUB    : Mr-N4Y4N             ║
+           \x1b[1;92m║ FACEBOOK  : NAYAN MONDOL         ║
+           \x1b[1;92m║ Group     : XXXXXX       	║
+           \x1b[1;92m║ WHATSAPP  : 01791678876          ║
            \x1b[1;92m╚═════════════════════════════╝
 \033[1;92m Mr.\x1b[1;90m════════════════════════════════════════════\x1b[1;92m NAYAN
 \033[1;92m Mr.\x1b[1;90m════════════════════════════════════════════\x1b[1;92m NAYAN""")
