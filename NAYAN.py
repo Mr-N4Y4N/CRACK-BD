@@ -85,7 +85,7 @@ def back():
 	login()
 
 ahsan="N4Y4N-"
-imt="-KEY=="
+imt="-BD=="
 ak="MR-"
 myid=uuid.uuid4().hex[:10].upper()
 try:
@@ -399,12 +399,12 @@ logo = ("""
 \033[1;92mNAYAN\x1b[1;90m════════════════════════════════════════════\x1b[1;92mNAYAN
 \033[1;92mNAYAN\x1b[1;90m════════════════════════════════════════════\x1b[1;92mNAYAN
            \x1b[1;92m╔═════════════════════════════╗
-           \x1b[1;92m║ TOOL NAME : Mr.NAYAN     	║
-           \x1b[1;92m║ AUTHOR    : NAYAN MONDOL         ║
-           \x1b[1;92m║ GITHUB    : Mr-N4Y4N             ║
-           \x1b[1;92m║ FACEBOOK  : NAYAN MONDOL         ║
-           \x1b[1;92m║ Group     : XXXXXX       	║
-           \x1b[1;92m║ WHATSAPP  : 01791678876          ║
+           \x1b[1;92m  TOOL NAME : Mr.NAYAN     	
+           \x1b[1;92m  AUTHOR    : NAYAN MONDOL
+           \x1b[1;92m  GITHUB    : Mr-N4Y4N 
+           \x1b[1;92m  FACEBOOK  : NAYAN MONDOL    
+           \x1b[1;92m  Group     : XXXXXX       	
+           \x1b[1;92m  WHATSAPP  : 01791678876
            \x1b[1;92m╚═════════════════════════════╝
 \033[1;92m Mr.\x1b[1;90m════════════════════════════════════════════\x1b[1;92m NAYAN
 \033[1;92m Mr.\x1b[1;90m════════════════════════════════════════════\x1b[1;92m NAYAN""")
